@@ -19,10 +19,15 @@ A machine learning-powered web application built with **Streamlit** to predict p
 ## 📂 Project Structure  
 📦 Streamlit-SurvivalPredictor
 ├── model.pkl # Trained ML model
+
 ├── model_training.ipynb # Jupyter Notebook for model training
+
 ├── passenger_survival_dataset # Dataset used for training
+
 ├── requirements.txt # Dependencies
+
 ├── streamlitapp.py # Streamlit application
+
 └── README.md # Project documentation
 
 
