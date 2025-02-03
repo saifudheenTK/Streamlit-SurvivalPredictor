@@ -62,4 +62,4 @@ Add more advanced ML models
 Deploy the app online using Streamlit Sharing
 Made with ❤️ by SaifudheenTK
 
-\
+
