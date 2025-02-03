@@ -30,21 +30,25 @@ A machine learning-powered web application built with **Streamlit** to predict p
 1️⃣ **Clone the repository**  
 
 git clone https://github.com/yourusername/Streamlit-SurvivalPredictor.git
+
+
 2️⃣ Navigate to the project directory
 
-bash
-Copy
-Edit
+
 cd Streamlit-SurvivalPredictor
+
 3️⃣ Install dependencies
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
+
+
 4️⃣ Run the Streamlit app
 
+
 streamlit run streamlitapp.py
+
+
 🎯 Usage
 Open the web interface in your browser.
 Enter passenger details (Age, Gender, Class, Seat Type, Fare Paid, etc.).
@@ -52,6 +56,7 @@ Click Predict to get survival probability.
 
 
 🚀 Future Improvements
+
 Enhance UI/UX with better visualizations
 Add more advanced ML models
 Deploy the app online using Streamlit Sharing
