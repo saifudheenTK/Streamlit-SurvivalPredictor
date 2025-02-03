@@ -35,7 +35,7 @@ A machine learning-powered web application built with **Streamlit** to predict p
 ## 🔧 Installation & Setup  
 1️⃣ **Clone the repository**  
 
-git clone https://github.com/yourusername/Streamlit-SurvivalPredictor.git
+git clone https://github.com/saifudheenTK/Streamlit-SurvivalPredictor.git
 
 
 2️⃣ Navigate to the project directory
