@@ -18,6 +18,7 @@ A machine learning-powered web application built with **Streamlit** to predict p
 
 ## 📂 Project Structure  
 📦 Streamlit-SurvivalPredictor
+
 ├── model.pkl # Trained ML model
 
 ├── model_training.ipynb # Jupyter Notebook for model training
